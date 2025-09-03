@@ -2,7 +2,7 @@
 
 # TASK-1
 
-# Subham Das - Web Developer Portfolio 🌐
+# Bibek Parhi - Web Developer Portfolio 🌐
 
 This is my **Task 1** submission for the 45-Day Web Development Internship at **ApexPlanet**.
 
@@ -21,11 +21,11 @@ A modern, fully responsive, visually rich personal portfolio website built using
 - Fully mobile responsive
 
 ## 🧑‍💻 About Me
-I’m Subham Das, an MCA student from IMIT, Cuttack. I love web development, solving problems, and continuously learning new technologies.
+I’m Bibek Parhi, an MCA student from IMIT, Cuttack. I love web development, solving problems, and continuously learning new technologies.
 
 ## 🔗 Live Preview
 👉 [Add GitHub Pages link here if you host it]
 
 ## 📬 Connect with Me
-- [GitHub](https://github.com/subhamdas2003)
-- [LinkedIn](https://www.linkedin.com/in/subham-das-115060290/)
+- [GitHub](https://github.com/bibekparhi2003)
+- [LinkedIn](www.linkedin.com/in/bibek-parhi-282392353)
